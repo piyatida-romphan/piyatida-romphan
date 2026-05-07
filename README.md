@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Bee 👋
 
-<!--
-**piyatida-romphan/piyatida-romphan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior SDET with enterprise fintech experience in:
+- Test Automation
+- Performance Testing
+- Distributed Systems
+- QA Architecture
 
-Here are some ideas to get you started:
+Currently exploring:
+- AI-assisted QA workflows
+- LLM-powered testing tools
+- Engineering productivity with GenAI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+### QA / Automation
+- Robot Framework
+- Playwright
+- Selenium
+- API Testing
+- Gatling
+- Performance Testing
+
+### Engineering
+- Python
+- Java
+- FastAPI
+- Docker
+- GitHub Actions
+- AWS
+
+### AI Exploration
+- OpenAI API
+- Prompt Engineering
+- AI-assisted Test Generation
+- AI Bug Analysis
+
+---
+
+## 🚀 Current Focus
+
+Building:
+- AI Test Case Generator
+- AI Bug Analyzer
+- Enterprise SDET Portfolio
+- AI-assisted QA workflows
+
+---
+
+## 🌐 Connect
+
+- LinkedIn: [linkedin.com/in/piyatida-romphan](https://linkedin.com/in/piyatida-romphan)
+
+---
+
+> Senior enterprise SDET adapting AI into QA workflows.
