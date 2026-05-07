@@ -1,15 +1,20 @@
 # Hi, I'm Bee 👋
 
-Senior SDET with enterprise fintech experience in:
+Senior SDET with enterprise experience in fintech, automation, and distributed systems.
+
+Currently exploring AI-assisted engineering workflows, LLM-powered testing tools, and modern QA productivity automation.
+
+---
+
+## 🧠 Expertise
+
 - Test Automation
 - Performance Testing
+- API Testing
 - Distributed Systems
-- QA Architecture
-
-Currently exploring:
-- AI-assisted QA workflows
-- LLM-powered testing tools
-- Engineering productivity with GenAI
+- QA Strategy
+- Reliability & Release Risk
+- Enterprise Automation Architecture
 
 ---
 
@@ -36,23 +41,35 @@ Currently exploring:
 - Prompt Engineering
 - AI-assisted Test Generation
 - AI Bug Analysis
+- QA Workflow Automation
 
 ---
 
 ## 🚀 Current Focus
 
-Building:
+Building and experimenting with:
+
+- AI-assisted QA workflows
+- LLM-powered testing tools
+- Enterprise automation architecture
+- Performance & reliability engineering
+
+---
+
+## 📌 Featured Projects
+
+Coming soon:
 - AI Test Case Generator
 - AI Bug Analyzer
-- Enterprise SDET Portfolio
-- AI-assisted QA workflows
+- Enterprise SDET Framework
+- Performance Testing Lab
 
 ---
 
 ## 🌐 Connect
 
-- LinkedIn: [linkedin.com/in/piyatida-romphan](https://linkedin.com/in/piyatida-romphan)
+- LinkedIn: https://linkedin.com/in/piyatida-romphan
 
 ---
 
-> Senior enterprise SDET adapting AI into QA workflows.
+> Senior enterprise SDET exploring AI-assisted engineering workflows.
